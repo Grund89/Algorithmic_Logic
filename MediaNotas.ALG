@@ -21,10 +21,14 @@ Inicio
   
   Escreval("--------- RESULTADO ----------")
   Escreval("MÉDIA: ", MD, " pts")
-    Se (MD < 7) entao
-     Escreval("ALUNO REPROVADO")
-     Senao
+    Se (MD >= 7) entao
      Escreval("ALUNO APROVADO")
+    Senao
+       Se (MD >= 5) e ( MD < 7) entao
+         Escreval("ALUNO EM RECUPERAÇÃO")
+       senao
+         Escreval("ALUNO REPROVADO")
+         FimSe
     FimSe
   Escreval("--------------------------")
 

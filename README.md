@@ -24,6 +24,8 @@ Sinta-se à vontade para explorar os exercícios neste repositório e usá-los c
 Se você tiver sugestões de melhorias nos exercícios existentes ou ideias para novos exercícios, ficarei feliz em receber suas contribuições! Basta abrir uma issue ou enviar um pull request com suas alterações.
 
 ## 📲 Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/douglasgrund)
+
 Se você tiver alguma dúvida ou feedback sobre este repositório, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novas oportunidades de aprendizado e colaboração.
 
 ![BACKEND png 2024-05-03 15-30-56](https://github.com/Grund89/Algorithmic_Logic/assets/134496573/ed1a5df2-91db-4b18-b560-ec1eaa902b1f)

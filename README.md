@@ -24,7 +24,7 @@ Sinta-se à vontade para explorar os exercícios neste repositório e usá-los c
 Se você tiver sugestões de melhorias nos exercícios existentes ou ideias para novos exercícios, ficarei feliz em receber suas contribuições! Basta abrir uma issue ou enviar um pull request com suas alterações.
 
 ## 📲 Contato
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/douglasgrund)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasgrund)
 
 Se você tiver alguma dúvida ou feedback sobre este repositório, sinta-se à vontade para entrar em contato comigo. Estou sempre aberto a novas oportunidades de aprendizado e colaboração.
 
